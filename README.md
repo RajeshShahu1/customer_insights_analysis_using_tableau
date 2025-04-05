@@ -72,7 +72,12 @@ By leveraging **Tableau** for customer analysis, businesses can:
   Develop strategies to increase customer retention and loyalty by understanding customer behavior.
 
 ---
+## Download the CSV File
 
+You can download the customer data CSV from the following release:  
+[Download CSV - v1.0](https://github.com/RajeshShahu1/customer_insights_analysis_using_tableau/releases/tag/v1.0)
+
+---
 ## 🧠 Conclusion
 
 This **Customer Analysis** project demonstrates how businesses can leverage Tableau to gain valuable insights into customer data. By visualizing key metrics such as revenue trends, customer demographics, and regional performance, companies can make data-driven decisions that improve customer satisfaction and drive growth.
